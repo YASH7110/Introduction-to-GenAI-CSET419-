@@ -37,6 +37,12 @@ Future Work:
 To build model from scratch using Custom CNN using Synthetic data we generated .
 
 
+Augmented Dataset : 200 images per class 
+Total class = 41
+Total images = 8200
+
+Dataset(Synthetic data) Link : https://drive.google.com/drive/folders/1Uafgr1_TOUiijskxOM1A-RSQWW6ER_GH?usp=sharing
+
     
     
 
