@@ -32,11 +32,6 @@ Using  pretrained model resnet-50
 for classification (41 classes)
 
 
-Future Work:
-
-To build model from scratch using Custom CNN using Synthetic data we generated .
-
-
 Augmented Dataset : 200 images per class 
 Total class = 41
 Total images = 8200
