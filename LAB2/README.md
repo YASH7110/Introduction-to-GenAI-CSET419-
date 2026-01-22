@@ -20,3 +20,9 @@ https://drive.google.com/drive/folders/1uL8mz6OYlTOUps74Qetbe47RuQwpYUdo?usp=sha
 GENERATED SAMPLES🚀
 
 <img width="1572" height="786" alt="image" src="https://github.com/user-attachments/assets/aee2c656-a48e-4b3e-929e-29b695ea9ce5" />
+
+
+
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f844cac9-c3a5-47e5-acff-ab20f45bab09" />
+
