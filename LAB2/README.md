@@ -7,4 +7,11 @@ Folder 2 contain DCGAN that is trained on the MNIST Handwritten DIGITS DATASETðŸ
 
 link of models and Generated SamplesðŸ”—
 
+
+1)HANDWRITTEN_DIGITS_DCGAN
   
+https://drive.google.com/drive/folders/1D7NyYu_HOoAlSDnYMoAmMHu23VQ6zIrG?usp=sharing
+
+2)MNIST_FASHION_DCGAN
+
+
