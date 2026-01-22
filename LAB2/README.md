@@ -17,3 +17,6 @@ https://drive.google.com/drive/folders/1D7NyYu_HOoAlSDnYMoAmMHu23VQ6zIrG?usp=sha
 https://drive.google.com/drive/folders/1uL8mz6OYlTOUps74Qetbe47RuQwpYUdo?usp=sharing
 
 
+GENERATED SAMPLES🚀
+
+<img width="1572" height="786" alt="image" src="https://github.com/user-attachments/assets/aee2c656-a48e-4b3e-929e-29b695ea9ce5" />
