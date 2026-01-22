@@ -14,4 +14,6 @@ https://drive.google.com/drive/folders/1D7NyYu_HOoAlSDnYMoAmMHu23VQ6zIrG?usp=sha
 
 2)MNIST_FASHION_DCGAN
 
+https://drive.google.com/drive/folders/1uL8mz6OYlTOUps74Qetbe47RuQwpYUdo?usp=sharing
+
 
